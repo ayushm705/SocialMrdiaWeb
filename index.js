@@ -2,6 +2,9 @@ const express=require('express');
 const app=express();
 const port=8000;
 const expressLayouts = require('express-ejs-layouts');
+//database
+const db= require('./config/mongoose');
+
 //same layouts for each page
 app.use(expressLayouts);
 

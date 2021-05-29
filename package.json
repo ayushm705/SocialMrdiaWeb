@@ -16,6 +16,7 @@
     "express-ejs-layouts": "^2.5.0",
     "g": "^2.0.1",
     "global": "^4.4.0",
-    "layouts": "^3.0.2"
+    "layouts": "^3.0.2",
+    "mongoose": "^5.12.12"
   }
 }
